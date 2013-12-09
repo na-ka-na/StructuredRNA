@@ -1,0 +1,167 @@
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\HBonds.java:15: package org.apache.commons.lang does not exist
+import org.apache.commons.lang.StringUtils;
+                              ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:58: package clojure.lang does not exist
+  public static iiit.RNAAsGraph formRNAGraph (clojure.lang.PersistentArrayMap opts) {}
+                                                          ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:58: cannot find symbol
+symbol  : class RNAAsGraph
+location: package iiit
+  public static iiit.RNAAsGraph formRNAGraph (clojure.lang.PersistentArrayMap opts) {}
+                    ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:72: cannot find symbol
+symbol  : class RNAAsGraph
+location: package iiit
+  public static clojure.lang.PersistentHashMap getAllResidues (iiit.RNAAsGraph RAG) {}
+                                                                   ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:72: package clojure.lang does not exist
+  public static clojure.lang.PersistentHashMap getAllResidues (iiit.RNAAsGraph RAG) {}
+                            ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:86: cannot find symbol
+symbol  : class RNAAsGraph
+location: package iiit
+  public static clojure.lang.PersistentHashMap getAllCBonds (iiit.RNAAsGraph RAG) {}
+                                                                 ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:86: package clojure.lang does not exist
+  public static clojure.lang.PersistentHashMap getAllCBonds (iiit.RNAAsGraph RAG) {}
+                            ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:100: cannot find symbol
+symbol  : class RNAAsGraph
+location: package iiit
+  public static clojure.lang.PersistentHashMap getAllHBonds (iiit.RNAAsGraph RAG) {}
+                                                                 ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:100: package clojure.lang does not exist
+  public static clojure.lang.PersistentHashMap getAllHBonds (iiit.RNAAsGraph RAG) {}
+                            ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:121: cannot find symbol
+symbol  : class RNAAsGraph
+location: package iiit
+  public static clojure.lang.PersistentArrayMap getRNAGraphStats (iiit.RNAAsGraph RAG) {}
+                                                                      ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:121: package clojure.lang does not exist
+  public static clojure.lang.PersistentArrayMap getRNAGraphStats (iiit.RNAAsGraph RAG) {}
+                            ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:142: cannot find symbol
+symbol  : class RNAAsGraph
+location: package iiit
+  public static void printRNAGraphToFile (iiit.RNAAsGraph RAG, String fileName) {}
+                                              ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:162: cannot find symbol
+symbol  : class RNAAsGraph
+location: package iiit
+  public static clojure.lang.PersistentHashSet getNLets (iiit.RNAAsGraph RAG, int n) {}
+                                                             ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:162: package clojure.lang does not exist
+  public static clojure.lang.PersistentHashSet getNLets (iiit.RNAAsGraph RAG, int n) {}
+                            ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:185: cannot find symbol
+symbol  : class RNAAsGraph
+location: package iiit
+  public static clojure.lang.LazySeq getStems (iiit.RNAAsGraph RAG, int stemLen) {}
+                                                   ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:185: package clojure.lang does not exist
+  public static clojure.lang.LazySeq getStems (iiit.RNAAsGraph RAG, int stemLen) {}
+                            ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:211: cannot find symbol
+symbol  : class RNAAsGraph
+location: package iiit
+  public static clojure.lang.LazySeq getStemLoops (iiit.RNAAsGraph RAG, int stemLen, int loopLen) {}
+                                                       ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:211: package clojure.lang does not exist
+  public static clojure.lang.LazySeq getStemLoops (iiit.RNAAsGraph RAG, int stemLen, int loopLen) {}
+                            ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:239: cannot find symbol
+symbol  : class RNAAsGraph
+location: package iiit
+  public static clojure.lang.LazySeq getBulges (iiit.RNAAsGraph RAG, int stem1Len, int stem2Len, int bulgeLen) {}
+                                                    ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:239: package clojure.lang does not exist
+  public static clojure.lang.LazySeq getBulges (iiit.RNAAsGraph RAG, int stem1Len, int stem2Len, int bulgeLen) {}
+                            ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:262: cannot find symbol
+symbol  : class RNAAsGraph
+location: package iiit
+  public static clojure.lang.LazySeq getKissingStemLoops (iiit.RNAAsGraph RAG, int stem1Len, int loop1Len, int stem2Len, int loop2Len) {}
+                                                              ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\Topos.java:262: package clojure.lang does not exist
+  public static clojure.lang.LazySeq getKissingStemLoops (iiit.RNAAsGraph RAG, int stem1Len, int loop1Len, int stem2Len, int loop2Len) {}
+                            ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:3: cannot find symbol
+symbol  : class RNAAsGraph
+location: package iiit
+import iiit.RNAAsGraph;
+           ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:7: package clojure.lang does not exist
+import clojure.lang.*;
+^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:64: cannot find symbol
+symbol  : class RNAAsGraph
+location: class iiit.ToposDemo
+	public static void demo_allToposCounts(RNAAsGraph RAG){
+	                                       ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:128: cannot find symbol
+symbol  : class RNAAsGraph
+location: class iiit.ToposDemo
+	public static RNAAsGraph demo_formRNAGraph(String atomsPDBFileName, String hBondsFileName){
+	              ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:148: cannot find symbol
+symbol  : class RNAAsGraph
+location: class iiit.ToposDemo
+	public static void demo_getRNAGraphStats(RNAAsGraph RAG){
+	                                         ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:163: cannot find symbol
+symbol  : class RNAAsGraph
+location: class iiit.ToposDemo
+	public static void demo_getAllResidues(RNAAsGraph RAG){
+	                                       ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:180: cannot find symbol
+symbol  : class RNAAsGraph
+location: class iiit.ToposDemo
+	public static void demo_getAllCBonds(RNAAsGraph RAG){
+	                                     ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:198: cannot find symbol
+symbol  : class RNAAsGraph
+location: class iiit.ToposDemo
+	public static void demo_getAllHBonds(RNAAsGraph RAG){
+	                                     ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:221: cannot find symbol
+symbol  : class RNAAsGraph
+location: class iiit.ToposDemo
+	public static void demo_printRNAGraphToFile(RNAAsGraph RAG, String fileName){
+	                                            ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:233: cannot find symbol
+symbol  : class RNAAsGraph
+location: class iiit.ToposDemo
+	public static void demo_getNLets(RNAAsGraph RAG, int n){
+	                                 ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:259: cannot find symbol
+symbol  : class PersistentVector
+location: class iiit.ToposDemo
+	private static void printStem(PersistentVector stem){
+	                              ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:274: cannot find symbol
+symbol  : class RNAAsGraph
+location: class iiit.ToposDemo
+	public static void demo_getStems(RNAAsGraph RAG, int stemLen){
+	                                 ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:288: cannot find symbol
+symbol  : class PersistentVector
+location: class iiit.ToposDemo
+	private static void printStemLoop(PersistentVector stemLoop){
+	                                  ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:303: cannot find symbol
+symbol  : class RNAAsGraph
+location: class iiit.ToposDemo
+	public static void demo_getStemLoops(RNAAsGraph RAG, int stemLen, int loopLen){
+	                                     ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:325: cannot find symbol
+symbol  : class RNAAsGraph
+location: class iiit.ToposDemo
+	public static void demo_getBulges(RNAAsGraph RAG, int stem1Len, int stem2Len, int bulgeLen){
+	                                  ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:354: cannot find symbol
+symbol  : class RNAAsGraph
+location: class iiit.ToposDemo
+	public static void demo_getKissingStemLoops(RNAAsGraph RAG, int stem1Len, int loop1Len, int stem2Len, int loop2Len){
+	                                            ^
+C:\Documents and Settings\Administrator\Desktop\IIIT_RNA_Project\src\iiit\ToposDemo.java:128: warning - @return tag has no arguments.
