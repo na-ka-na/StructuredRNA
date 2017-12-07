@@ -1,4 +1,4 @@
-Modelled PDB data in Clojure to search for higher level topological patterns in the secondary structure of RNA.
+Modelled PDB data in Clojure to search for higher level topological patterns in the secondary structure of RNA. See RNA_Project.pptx for a presentation of the results.
 
 COMPILE WINDOWS
 ---------------
